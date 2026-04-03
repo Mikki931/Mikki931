@@ -59,4 +59,8 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Mikki931/Mikki931/blob/output/github-contribution-grid-snake.svg)
+
 ⭐ *“Consistency > Motivation”*
