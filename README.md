@@ -42,8 +42,13 @@
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikki931&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,mongodb,python" />
 </p>
+
+<p align="center">
+  <b>C</b> • <b>Java</b> • <b>JavaScript</b> • <b>SQL</b> • <b>MongoDB</b> • <b>Python</b>
+</p>
+
 ---
 
 ## 🌱 Currently Working On
