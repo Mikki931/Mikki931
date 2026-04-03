@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Learner;Backend+Developer;Future+Engineer&center=true&width=500&height=50">
+</p>
 <h1 align="center">Hi 👋, I'm Mahek</h1>
 <h3 align="center">💻 2nd Year Student | Python & Backend Learner</h3>
 
