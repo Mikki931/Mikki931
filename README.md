@@ -27,12 +27,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mikki931&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mikki931&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mikki931&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=Mikki931&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
 
+## 🔥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikki931&layout=compact&theme=tokyonight&cache_seconds=86400" />
+</p>
 ## 🔥 Top Languages
 
 <p align="center">
